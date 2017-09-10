@@ -1,0 +1,4 @@
+#python34
+mysql-connector-python == 2.1.4
+SQLAlchemy == 1.1.14
+
